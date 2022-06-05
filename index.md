@@ -240,3 +240,20 @@ Organizers and PC Members
 {% comment %}
 Organizers and PC Members
 {% endcomment %}
+
+
+Sara Hooker 
+
+
+Rosanne Liu 
+
+
+Pablo Castro
+
+Fatemehsadat Mireshghallah 
+
+Sunipa Dev 
+
+Fede Carnevale
+
+Benjamin Rosman 
