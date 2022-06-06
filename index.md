@@ -242,18 +242,16 @@ Organizers and PC Members
 {% endcomment %}
 
 
-Sara Hooker 
+Sara Hooker (Google Brain)
 
+Rosanne Liu (Google Brain)
 
-Rosanne Liu 
+Pablo Castro (Google Brain)
 
+Fatemehsadat Mireshghallah (UC San Diego)
 
-Pablo Castro
+Sunipa Dev (Google Research)
 
-Fatemehsadat Mireshghallah 
+Fede Carnevale (DeepMind)
 
-Sunipa Dev 
-
-Fede Carnevale
-
-Benjamin Rosman 
+Benjamin Rosman (University of the Witwatersrand, South Africa)
