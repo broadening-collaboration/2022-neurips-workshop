@@ -242,9 +242,9 @@ Organizers and PC Members
 {% endcomment %}
 
 
-Sara Hooker (Google Brain)
+Sara Hooker 
 
-Rosanne Liu (Google Brain)
+Rosanne Liu (Google Brain and ML Collective)
 
 Pablo Castro (Google Brain)
 
