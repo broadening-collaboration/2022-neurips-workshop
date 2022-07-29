@@ -5,7 +5,7 @@ layout: workshop      # DON'T CHANGE THIS.
 
 venue: "Broadening Collaborations in ML"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "NeurIPS 2022"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-humandate: "NeurIPS Workshop, Dec 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "NeurIPS Workshop, Dec 3rd 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 
 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
