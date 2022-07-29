@@ -259,3 +259,19 @@ Benjamin Rosman (University of the Witwatersrand, South Africa)
 João G.M Araújo (University of São Paulo and Cohere)
 
 Tejumade Afonja (Saarland University, and founder of AISaturdays)
+
+
+<h2 id="surveys">Program Committee Leads</h2>
+Brihi Joshi - Southern California
+
+Sunny Sanyal - University of Texas at Austin 
+
+Anirudh Mani - Amazon
+
+Tyler Zhu - University of California, Berkeley
+
+Swapneel Mehta - New York University
+
+Tejumade Afonja - AISaturdaysLagos, Saarland University
+
+João G.M Araújo - Cohere, University of São Paulo
