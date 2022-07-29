@@ -74,7 +74,7 @@ the pitch.
 
 This workshop aims to discuss challenges and opportunities given the changing landscape of where, how and by whom research is produced. Progress toward democratizing AI research has been centered around making knowledge (e.g. class materials), established ideas (e.g. papers) and technologies (e.g. code, compute) more accessible. However, open, online resources are only part of the equation. Growth as a researcher requires not only learning by consuming information individually, but hands-on practice whiteboarding, coding, plotting, debugging, and writing collaboratively, with either mentors or peers. Of course, making "collaborators" more universally accessible is fundamentally more difficult than, say, ensuring all can access arXiv papers, because scaling people and research groups is much harder than scaling websites. Can we nevertheless make access to collaboration itself more open? 
 
-
+From the renaissance until the late 19th century, individuals often pursued science without being affiliated with an institution. The professional scientist only emerged in the 19th century with the development of national research agendas and funding. Now, we are again in the midst of a change in the paths and institutions that spur scientific progress. The research landscape today is increasingly heterogeneous and characterized by a mix of traditional academic institutions, industry research labs, and community research groups (Masakhane, ML Collective, EleutherAI, MD4SG and others). Often the boundary blurs, as labs collaborate across academic boundaries on cross-institutional research efforts over long time horizons (e.g. Cohere For AI, Big Science Workshop). What has driven this change? The question of how we collaborate is intrinsic to understanding and accelerating scientific progress. Often, how we collaborate is a result of both "how we'd ideally like to collaborate" and "how we are incentivized to collaborate". Sometimes, changes in how we collaborate can be a catalyst for evolving the incentives and institutions themselves. This workshop provides an important forum for discussion on this topic, by both drawing from the perspectives not only of researchers inside machine learning, but also from the experience of other disciplines such as philosophy and history.
 
 
 {% comment %}
@@ -242,7 +242,7 @@ Organizers and PC Members
 {% endcomment %}
 
 
-Sara Hooker 
+Sara Hooker (Cohere for AI)
 
 Rosanne Liu (Google Brain and ML Collective)
 
@@ -255,3 +255,7 @@ Sunipa Dev (Google Research)
 Fede Carnevale (DeepMind)
 
 Benjamin Rosman (University of the Witwatersrand, South Africa)
+
+João G.M Araújo (University of São Paulo and Cohere)
+
+Tejumade Afonja (Saarland University, and founder of AISaturdays)
