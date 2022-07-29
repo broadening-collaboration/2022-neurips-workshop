@@ -202,6 +202,37 @@ More details about submission guidelines, formatting and deadlines will be provi
 
 <hr/>
 
+<h2 id="surveys">Confirmed Speakers and Panelists</h2>
+
+Andrew Trask -  DeepMind, Oxford, OpenMined
+
+Kalika Bali - Microsoft
+
+Emtiyaz Khan - RIKEN center for Advanced Intelligence Project (AIP); initiator of mementor program
+
+Yoshua Bengio - MILA
+
+Sarah Tan - Responsible AI at Facebook
+
+Suzana Ilić - Big Science, Hugging Face and Machine Learning Tokyo
+
+Jade Abbott - Co-founder Masakhane
+
+Ben Hutchinson - Software Engineer, Google Research
+
+Luciana Benotti - Professor at Universidad Nacional de Córdoba
+
+Rediet Abebe - Assistant Professor Berkeley
+
+Kanjun Qiu - CEO of Generally Intelligent, Writer of the The Science++ Project
+
+Doina Precup - McGill University, Deepmind
+
+Johan Samir Obando Cerón - Masters student, MILA
+
+Steven Kolawole – Independent researcher at ML Collective
+
+Jesse Dodge – AI2
 
 
 
