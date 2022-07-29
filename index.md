@@ -202,7 +202,7 @@ More details about submission guidelines, formatting and deadlines will be provi
 
 <hr/>
 
-<h2 id="surveys">Confirmed Speakers and Panelists</h2>
+<h2 id="general">Confirmed Speakers and Panelists</h2>
 
 Andrew Trask -  DeepMind, Oxford, OpenMined
 
