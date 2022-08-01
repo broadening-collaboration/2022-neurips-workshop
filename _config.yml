@@ -45,6 +45,8 @@ curriculum: "swc-gapminder"
 # https://github.com/carpentries/workshop-template#creating-extra-pages
 title: ""
 
+# Toggle logo.
+display_logo: false
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

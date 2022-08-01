@@ -1,0 +1,13 @@
+{% comment %}
+Organizers
+{% endcomment %}
+<h2>Organizers</h2>
+<div >
+    <ul class="list-unstyled">
+        {% if page.organizers %}
+                {% for organizer in page.organizers %}
+                <li style="padding-bottom: 1em">{{organizer}}</li>
+                {% endfor %}
+        {% endif %}
+    </ul>
+</div>
